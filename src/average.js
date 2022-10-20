@@ -28,6 +28,4 @@ const average = (value) => {
   media = Math.round(acumTotal / value.length);
   return media;
 };
-
-// average();
 module.exports = average;
